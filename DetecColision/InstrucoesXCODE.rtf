@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fnil\fcharset0 Menlo-Regular;
+\f3\fnil\fcharset0 Menlo-Italic;}
+{\colortbl;\red255\green255\blue255;\red100\green56\blue32;\red255\green255\blue255;\red196\green26\blue22;
+\red83\green101\blue121;}
+{\*\expandedcolortbl;;\csgenericrgb\c39147\c22031\c12446;\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c77000\c10200\c8600;
+\csgenericrgb\c32401\c39745\c47507;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh7340\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f1\b \cf0 Para usar a ImageClass no Xcode\
+\
+Alterar o Working Directory 
+\f0\b0 \
+	Menu Product -> Edit Scheme -> Run -> Options
+\f1\b \
+\
+NO FONTE, incluir
+\f0\b0 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2 \cf2 \cb3 #ifdef __APPLE__
+\f0 \cf0 \
+
+\f2 \cf2 #include \cf4 <GLUT/glut.h>
+\f0 \cf0 \
+
+\f2 \cf2 #endif
+\f0 \cf0 \cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b NO PROJETO, incluir
+\f0\b0 \cb3 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f3\i \cf5 -framework CoreFoundation
+\f0\i0 \cf0 \
+
+\f3\i \cf5 -framework GLUT
+\f0\i0 \cf0 \
+
+\f3\i \cf5 -framework OpenGL
+\f0\i0 \cf0 \cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 	Target -> Build Phases -> Link Binary With Libraries\
+\
+\
+
+\f1\b FLAGS
+\f0\b0 \
+Para aplicar uma flag em 
+\f1\b todos
+\f0\b0  os fontes\
+	Target -> Build Settings -> Apple Clang - Custom Compiler Flags\
+-Wno-deprecated-declarations\
+	Target -> Build Settings -> Apple Clang - Warning - All languages\
+Deprecated Functions\
+\
+\
+Para aplicar uma flag em um fonte espec\'edfico\
+	Target -> Build Phases -> Compile Sources \
+-Wno-comma\
+-Wno-conversion\
+\
+\
+\
+}

@@ -1,0 +1,1192 @@
+# depslib dependency file v1.0
+1215465208 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1425993830 
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/image_DXT.h
+
+1215465208 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/image_helper.h
+
+1425993829 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/SOIL.h
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1425995044 aug_c.h"
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/stbi_DDS_aug.h
+
+1215465208 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/SOIL/stbi_DDS_aug_c.h
+
+1496409358 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens-PRONTA.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1584987136 s.h"
+
+1496324903 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1584988394 .h"
+
+1496324875 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1430403200 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/TextureClass.cpp
+	"TextureClass.h"
+
+1430403200 ass.h"
+
+1430403197 /Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/TextureClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1432417796 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ExemploDeManipulacaoDeImagens-PRONTA.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1439514630 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/CarregaImgTxt.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1439502451 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ConverteImagemTXT.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1495570478 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1442779959 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens-Lucas.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1496401279 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens-PRONTA2.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1496427259 source:/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClass/Jessica-CG2.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1505151052 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1522753939 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/SOIL.h
+
+1215465208 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/image_DXT.h
+
+1215465208 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/image_helper.h
+
+1425993829 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/stbi_DDS_aug.h
+
+1215465208 /Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/SOIL/stbi_DDS_aug_c.h
+
+1522753765 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1526041867 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/ExemploDeManipulacaoDeImagens-PRONTA.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1522785428 source:/Users/Pinho/Dropbox/CG/OpenGL/MediaClass/ImageClass/mainLoader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SOIL.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 source:c:\users\avell\desktop\imageclass\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\avell\desktop\imageclass\soil\image_dxt.h
+
+1215465208 source:c:\users\avell\desktop\imageclass\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\avell\desktop\imageclass\soil\image_helper.h
+
+1425993830 source:c:\users\avell\desktop\imageclass\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\avell\desktop\imageclass\soil\soil.h
+
+1215465208 c:\users\avell\desktop\imageclass\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\avell\desktop\imageclass\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\avell\desktop\imageclass\soil\stbi_dds_aug.h
+
+1215465208 c:\users\avell\desktop\imageclass\soil\stbi_dds_aug_c.h
+
+1584985826 source:c:\users\avell\desktop\imageclass\exemplodemanipulacaodeimagens.cpp
+	<iostream>
+	<cmath>
+	<GLUT/glut.h>
+	"ImageClass.h"
+	"Temporizador.h"
+
+1584988348 dor.h"
+
+1572271592 c:\users\avell\desktop\imageclass\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1298986600 c:\users\avell\desktop\imageclass\gl\glut.h
+	"freeglut.h"
+
+1298986600 h"
+
+1298986600 c:\users\avell\desktop\imageclass\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 ext.h"
+
+1298986600 c:\users\avell\desktop\imageclass\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\avell\desktop\imageclass\gl\freeglut_ext.h
+
+1584985486 c:\users\avell\desktop\imageclass\temporizador.h
+	<iostream>
+	<windows.h>
+	"gl\glut.h"
+	<sys/time.h>
+
+1584988812 h>
+
+1584987137 source:c:\users\avell\desktop\imageclass\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584987553 source:c:\users\avell\desktop\imageclass\temporizador.cpp
+	"Temporizador.h"
+
+1584990000 source:d:\pinho\imageclass\exemplodemanipulacaodeimagens.cpp
+	<iostream>
+	<cmath>
+	<GLUT/glut.h>
+	"ImageClass.h"
+	"Temporizador.h"
+
+1584988394 d:\pinho\imageclass\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1298986600 d:\pinho\imageclass\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\imageclass\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\imageclass\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\imageclass\gl\freeglut_ext.h
+
+1215465208 d:\pinho\imageclass\soil\soil.h
+
+1584988812 d:\pinho\imageclass\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584987136 source:d:\pinho\imageclass\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:d:\pinho\imageclass\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 d:\pinho\imageclass\soil\image_dxt.h
+
+1215465208 source:d:\pinho\imageclass\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 d:\pinho\imageclass\soil\image_helper.h
+
+1425993830 source:d:\pinho\imageclass\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 d:\pinho\imageclass\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:d:\pinho\imageclass\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 d:\pinho\imageclass\soil\stbi_dds_aug.h
+
+1215465208 d:\pinho\imageclass\soil\stbi_dds_aug_c.h
+
+1584988348 source:d:\pinho\imageclass\temporizador.cpp
+	"Temporizador.h"
+
+1585512759 source:/home/scherer/Downloads/ImageClass/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<GLUT/glut.h>
+	"ImageClass.h"
+	"Temporizador.h"
+
+1584999194 /home/scherer/Downloads/ImageClass/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/SOIL.h
+
+1584999612 /home/scherer/Downloads/ImageClass/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584997936 source:/home/scherer/Downloads/ImageClass/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215476008 source:/home/scherer/Downloads/ImageClass/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Downloads/ImageClass/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Downloads/ImageClass/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Downloads/ImageClass/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Downloads/ImageClass/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Downloads/ImageClass/Temporizador.cpp
+	"Temporizador.h"
+
+1299001000 /home/scherer/Downloads/ImageClass/GL/glut.h
+	"freeglut.h"
+
+1299001000 /home/scherer/Downloads/ImageClass/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1299001000 /home/scherer/Downloads/ImageClass/GL/freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1299001000 /home/scherer/Downloads/ImageClass/GL/freeglut_ext.h
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/ImageClass_frame/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/SOIL.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_frame/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/Temporizador.cpp
+	"Temporizador.h"
+
+1584999612 /home/scherer/Desktop/CompGrafica/ImageClass_frame/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1585513050 source:/home/scherer/Desktop/CompGrafica/ImageClass_frame/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<GLUT/glut.h>
+	"ImageClass.h"
+	"Temporizador.h"
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/ImageClass_fill/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/SOIL.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/ImageClass_fill/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/Temporizador.cpp
+	"Temporizador.h"
+
+1584999612 /home/scherer/Desktop/CompGrafica/ImageClass_fill/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1586707761 source:/home/scherer/Desktop/CompGrafica/ImageClass_fill/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<GLUT/glut.h>
+	"ImageClass.h"
+	"Temporizador.h"
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/spaceInvaders/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/SOIL.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/spaceInvaders/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/Temporizador.cpp
+	"Temporizador.h"
+
+1584999612 /home/scherer/Desktop/CompGrafica/spaceInvaders/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1589460853 source:/home/scherer/Desktop/CompGrafica/spaceInvaders/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<GLUT/glut.h>
+	<time.h>
+	"ImageClass.h"
+	"Temporizador.h"
+	<stdio.h>
+	<stdlib.h>
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/SOIL.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Temporizador.cpp
+	"Temporizador.h"
+
+1584999612 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1591132546 source:/home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<GLUT/glut.h>
+	<time.h>
+	"ImageClass.h"
+	"Temporizador.h"
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	"Ponto.h"
+	"Linha.h"
+	"Linha.cpp"
+	"Quadtree.h"
+
+1303012008 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Ponto.h
+
+1589835777 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Linha.h
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+
+1591132215 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Quadtree.h
+	<iostream>
+
+1591132052 /home/scherer/Desktop/CompGrafica/DetecColisao/spaceInvaders/Linha.cpp
+	<cstdlib>
+
+1591366579 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<GLUT/glut.h>
+	<time.h>
+	"ImageClass.h"
+	"Temporizador.h"
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	"Ponto.h"
+	"Linha.h"
+	"Linha.cpp"
+	"Quadtree.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/SOIL.h
+
+1584999612 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1303012008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Ponto.h
+
+1589835777 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Linha.h
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+
+1591132052 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Linha.cpp
+	<cstdlib>
+
+1591364777 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Quadtree.h
+	<iostream>
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/DetecColisao/VictorScherer/Temporizador.cpp
+	"Temporizador.h"
+
+1584997936 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1584999194 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/SOIL.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/image_DXT.h
+
+1215476008 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/image_helper.h
+
+1426004630 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1426005844 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/stbi_DDS_aug.h
+
+1215476008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/SOIL/stbi_DDS_aug_c.h
+
+1584999148 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Temporizador.cpp
+	"Temporizador.h"
+
+1584999612 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1591377516 source:/home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<GLUT/glut.h>
+	<time.h>
+	"ImageClass.h"
+	"Temporizador.h"
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	"Ponto.h"
+	"Linha.h"
+	"Linha.cpp"
+	"Quadtree.h"
+
+1303012008 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Ponto.h
+
+1589835777 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Linha.h
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+
+1591132052 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Linha.cpp
+	<cstdlib>
+
+1591497491 /home/scherer/Desktop/CompGrafica/VictorSPutrich/DetecColision/Quadtree.h
+	<iostream>
+
